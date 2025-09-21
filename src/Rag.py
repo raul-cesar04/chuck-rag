@@ -1,0 +1,1 @@
+### Implementação dos métodos de RAG, para retrieving 
